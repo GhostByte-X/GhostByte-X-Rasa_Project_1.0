@@ -83,6 +83,7 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+    - I don't feel good
 
 - intent: bot_challenge
   examples: |
